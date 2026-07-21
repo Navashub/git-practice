@@ -1,1 +1,1 @@
-Day 3: Building commit habit
+Day 3: Building git commit habit
