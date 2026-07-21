@@ -24,7 +24,7 @@ Created `log.md`, made my first commit, and reviewed `git log` output.
 
 Made 3 separate, meaningful commits today.
 
-![Day 3 proof](proof/day03.png)
+![Day 3 proof](proof/day3.png)
 
 ---
 
@@ -32,7 +32,7 @@ Made 3 separate, meaningful commits today.
 
 Created a fake `secrets.txt` and `temp/`, added them to `.gitignore`, confirmed a clean `git status`.
 
-![Day 4 proof](proof/day04.png)
+![Day 4 proof](proof/day4.png)
 
 ---
 
@@ -40,7 +40,7 @@ Created a fake `secrets.txt` and `temp/`, added them to `.gitignore`, confirmed 
 
 Created `feature-1`, committed a change on it, then switched back to `main` to see the branch diverge.
 
-![Day 5 proof](proof/day05.png)
+![Day 5 proof](proof/day5.png)
 
 ---
 
