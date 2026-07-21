@@ -43,3 +43,17 @@ Created `feature-1`, committed a change on it, then switched back to `main` to s
 ![Day 5 proof](proof/day05.png)
 
 ---
+
+## Day 6 - Merge & Conflict
+
+Edited the same line on `main` and `feature-1`, merged, hit a real conflict, and resolved it by hand.
+
+**Before resolving:**
+
+![Day 6 proof - before](proof/day06a.png)
+
+**After resolving:**
+
+![Day 6 proof - after](proof/day06b.png)
+
+---
