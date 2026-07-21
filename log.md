@@ -57,3 +57,11 @@ Edited the same line on `main` and `feature-1`, merged, hit a real conflict, and
 ![Day 6 proof - after](proof/day06b.png)
 
 ---
+
+## Day 8 - GitHub Setup
+
+Connected the local repo to a new GitHub repository.
+
+![Day 8 proof](proof/day08.png)
+
+---
