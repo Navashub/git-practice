@@ -65,3 +65,11 @@ Connected the local repo to a new GitHub repository.
 ![Day 8 proof](proof/day08.png)
 
 ---
+
+## Day 9 - First Push
+
+Pushed local commits to GitHub for the first time and set up branch tracking with origin/main.
+
+![Day 9 proof](proof/day09.png)
+
+---
