@@ -97,3 +97,13 @@ Cloned `neural-maze/production-ocr-course` - a public repo for building/deployin
 ![Day 11 proof - clone](proof/day11b.png)
 
 ---
+
+## Day 12 - Fork
+
+Forked octocat/Spoon-Knife to my own account, then cloned my fork locally.
+
+![Day 12 proof - forked repo](proof/day12a.png)
+
+![Day 12 proof - clone](proof/day12b.png)
+
+---
