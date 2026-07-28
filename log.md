@@ -107,3 +107,13 @@ Forked octocat/Spoon-Knife to my own account, then cloned my fork locally.
 ![Day 12 proof - clone](proof/day12b.png)
 
 ---
+
+## Day 13 - The Push/Pull Rejection Cycle
+
+Edited README.md on GitHub, then made a conflicting local commit without pulling first. Push was rejected as expected. Pulled to merge histories (auto-merged cleanly), then pushed successfully.
+
+![Day 13 proof - rejected push](proof/day13a.png)
+
+![Day 13 proof - pull and successful push](proof/day13b.png)
+
+---
