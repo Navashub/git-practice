@@ -87,3 +87,13 @@ Edited notes.md directly on GitHub, then pulled it down locally and confirmed th
 ![Day 10 proof - terminal](proof/day10b.png)
 
 ---
+
+## Day 11 - Clone Something
+
+Cloned `neural-maze/production-ocr-course` - a public repo for building/deploying a production OCR pipeline with Rust, vLLM, Redis, and Kubernetes. Noticed it's organized by service (client_rt_consumer, client_rt_producer, server, k8s) rather than by file type - a real multi-service project layout.
+
+![Day 11 proof - repo page](proof/day11a.png)
+
+![Day 11 proof - clone](proof/day11b.png)
+
+---
