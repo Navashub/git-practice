@@ -73,3 +73,17 @@ Pushed local commits to GitHub for the first time and set up branch tracking wit
 ![Day 9 proof](proof/day09.png)
 
 ---
+
+## Day 10 - Edit on GitHub, Pull Locally
+
+Edited notes.md directly on GitHub, then pulled it down locally and confirmed the change landed via git pull.
+
+**Edited on GitHub:**
+
+![Day 10 proof - GitHub edit](proof/day10a.png)
+
+**Pulled locally:**
+
+![Day 10 proof - terminal](proof/day10b.png)
+
+---
